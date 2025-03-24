@@ -1,0 +1,7 @@
+# Ignore directories
+data_cleaning/
+figures/
+manuscript/
+
+# Ignore OS specific files
+.DS_Store
