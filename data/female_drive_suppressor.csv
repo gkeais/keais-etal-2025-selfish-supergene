@@ -1,0 +1,17 @@
+"female_ID","father_ID","father_genotype","XDY","XBY","XDXB","XBXB"
+9,69,"suppressed",32,21,29,12
+10,69,"suppressed",28,35,25,18
+23,112,"suppressed",43,23,47,25
+24,112,"suppressed",26,17,45,26
+25,112,"suppressed",42,33,40,32
+28,112,"suppressed",52,36,64,36
+41,12,"suppressed",45,34,61,18
+1,72,"unsuppressed",27,14,29,19
+2,72,"unsuppressed",74,21,49,40
+3,72,"unsuppressed",6,2,21,8
+4,72,"unsuppressed",26,23,38,19
+5,72,"unsuppressed",43,25,56,43
+6,72,"unsuppressed",31,15,28,17
+7,72,"unsuppressed",27,26,44,25
+17,90,"unsuppressed",27,18,36,28
+31,5,"unsuppressed",3,5,8,4
