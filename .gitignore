@@ -4,5 +4,6 @@ figures/
 manuscript/
 .ipynb_checkpoints/
 
-# Ignore OS specific files
+# files
 .DS_Store
+.Rhistory
