@@ -2,6 +2,7 @@
 data_cleaning/
 figures/
 manuscript/
+.ipynb_checkpoints/
 
 # Ignore OS specific files
 .DS_Store
